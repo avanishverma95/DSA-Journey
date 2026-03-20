@@ -1,8 +1,7 @@
 // Problem: Middle of the Linked List
 // LeetCode: 876
 // Approach: Slow & Fast Pointer
-// Time: O(n)
-// Space: O(1)
+
 
 class Solution {
     public ListNode middleNode(ListNode head) {
